@@ -1,4 +1,4 @@
-# Privacy Policy for HydroCalc Basic
+# Privacy Policy for HydroCalc
 
 **Effective Date:** [Sept/2025]
 
