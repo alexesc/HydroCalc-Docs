@@ -1,4 +1,4 @@
-# HydroCalc Basic – Documentation
+# HydroCalc – Documentation
 
 Welcome to the documentation site for **HydroCalc Basic**.
 
