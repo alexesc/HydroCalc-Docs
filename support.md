@@ -1,10 +1,10 @@
-# HydroCalc Basic – Support
+# HydroCalc – Support
 
-Welcome to the support page for **HydroCalc Basic**.
+Welcome to the support page for **HydroCalc**.
 
 ## Frequently Asked Questions
 
-**Q: Does HydroCalc Basic require internet access?**  
+**Q: Does HydroCalc require internet access?**  
 A: No. The app works entirely offline and does not transmit any data.
 
 **Q: What if my calculation results seem incorrect?**  
