@@ -1,10 +1,10 @@
-# HydroCalc – Support
+# HydroViewer – Support
 
-Welcome to the support page for **HydroCalc**.
+Welcome to the support page for **HydroViewer**.
 
 ## Frequently Asked Questions
 
-**Q: Does HydroCalc require internet access?**  
+**Q: Does HydroViewer require internet access?**  
 A: No. The app works entirely offline and does not transmit any data.
 
 **Q: What if my calculation results seem incorrect?**  
